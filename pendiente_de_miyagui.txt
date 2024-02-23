@@ -1,0 +1,4 @@
+menu venta fruta opcion salir si no quiere fruta
+Ejm: si no escribe nada y lo deja en blanco, pues le preguntas "No ha seleccionado nada, desea salir? (s/n)"
+
+
